@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Akash K. Biju! 👋
 
-<!--
-**akashkbiju/akashkbiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer focused on building functional, responsive, and modern software applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Computer Science / Software Engineering Student
+- 💻 Passionate about Web Development, Problem Solving & Software Architecture
+- 🌱 Currently expanding my skill set in full-stack development & open-source tools
+- 💬 Ask me about web technologies, programming, and software development
+- ✉️ Contact me: **akashbiju204@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Tools
+`HTML5` `CSS3` `JavaScript` `React` `Node.js` `Python` `Git` `GitHub`
+
+---
+
+### 📫 Connect with Me
+- ✉️ **Email**: [akashbiju204@gmail.com](mailto:akashbiju204@gmail.com)
