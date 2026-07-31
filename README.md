@@ -5,7 +5,7 @@ I'm a passionate developer focused on building functional, responsive, and moder
 ---
 
 ### 🚀 About Me
-- 🎓 Computer Science / Software Engineering Student
+- 🎓 Computer Science / MCA Student & Developer
 - 💻 Passionate about Web Development, Problem Solving & Software Architecture
 - 🌱 Currently expanding my skill set in full-stack development & open-source tools
 - 💬 Ask me about web technologies, programming, and software development
