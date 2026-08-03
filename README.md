@@ -1,4 +1,4 @@
-# Hi there, I'm Akash K. Biju! 👋
+# Hi there, I'm Akash K Biju! 👋
 
 I'm a passionate developer focused on building functional, responsive, and modern software applications.
 
