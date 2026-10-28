@@ -23,8 +23,6 @@ I'm a passionate developer focused on building functional, responsive, and moder
 
 ### 📚 Currently Learning
 - ⚛️ MERN Stack Development
-- 🧠 Data Structures & Algorithms
-- 🌐 REST APIs
 - 🛠️ Git & GitHub
 - 🤖 Generative AI
 
